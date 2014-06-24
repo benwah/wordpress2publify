@@ -20,6 +20,13 @@ SECURITY NOTICE:
 Migrated users will have the default password "password"
 
 
+Supported version:
+==================
+
+Publify: 8.0.1
+Wordpress: Not sure
+
+
 How to use
 ==========
 
