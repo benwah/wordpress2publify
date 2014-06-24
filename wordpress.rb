@@ -160,9 +160,10 @@ dc:
   encoding: UTF8
 
 Usage example: (Let's say you downloaded this file to ~/Downloads/)
-cd ..plublifylocation..
-cp ~/Downloads/wordpress.rb .
-ruby wordpress.rb --db-config dc --prefix wp_
+
+$ cd ..plublifylocation..
+$ cp ~/Downloads/wordpress.rb .
+$ ruby wordpress.rb --db-config dc --prefix wp_
 
 }
 
